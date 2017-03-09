@@ -15,4 +15,4 @@ V1.4 on branch
 
 git is a distrubuted versoin control system
 git is a free software distributed under the GPL
-
+git has a mutable index called stage
